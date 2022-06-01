@@ -1370,10 +1370,12 @@ h3 {
 
 .question_group_one span:hover {
   color: #0a6ac0;
+  cursor: pointer;
 }
 
 .question_group_two span:hover {
   color: #0a6ac0;
+  cursor: pointer;
 }
 
 .answer {
